@@ -1,3 +1,4 @@
+
 check = 1
 in_pass = input('Введите пароль:')
 quanty = len(in_pass)
