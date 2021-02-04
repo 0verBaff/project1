@@ -59,4 +59,4 @@ middle_age = 0
 for j in user_list: 
     middle_age += int(j['age'])
 
-print(f'Средний взраст пользователей: {middle_age/len(user_list)}')
+print(f'Средний возраст пользователей: {middle_age/len(user_list)}')
